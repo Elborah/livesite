@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    width: 1500;
+}
+h2, h3{
+    color: white;
+    font: bold 15px Tahoma;
+}
+h1{
+    color: black;
+    font: bold 40px Tahoma;
+}
+.nav_bar{
+    border: 2px solid white;
+    margin: 5px;
+    height: 80px;
+    background: white;
+    margin-bottom: 10px;
+}
